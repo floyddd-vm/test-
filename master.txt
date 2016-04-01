@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master-right
+=======
+master-left
+>>>>>>> refs/remotes/origin/left_branch
